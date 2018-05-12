@@ -1,0 +1,38 @@
+_repo: Yorkshire-Tales.-Third-SeriesAmusing-sketches-of-Yorkshire-Life-in-the-Yorkshire-Dialect_18176
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hartley, John
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '7408'
+    url: http://www.gutenberg.org/2009/agents/7408
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2006-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English language -- Dialects -- England -- Yorkshire'
+- !lcsh 'Yorkshire (England) -- Fiction'
+tableOfContents: Grimes' New Hat -- Sammywell Sweeps th' Chimley -- Hepsabah's Hat
+  -- Old Dave to th' New Parson -- Sammywell's Eggsperiment -- What came of a Clock
+  Almanac -- Sammywell's Reformation -- Sheffield Smook -- Awr Lad -- Grimes' Galloway
+  -- True Blue; A Romance of Factory Life -- "If aw wor a Woman" -- Sammywell's Soft
+  Snap -- A Bashful Bradfordian -- Th' Owd, Owd Story -- Jim Nation's Fish-shop --
+  Bob Brierley's Bull Pup -- Troubles and Trials -- Earnin' a Honest Penny -- Th'
+  Next Mornin' -- Christmas Oysters -- Chairley's Coortin -- What a Gallus Button
+  did
+title: 'Yorkshire Tales. Third Series
+
+  Amusing sketches of Yorkshire Life in the Yorkshire Dialect'
+url: http://www.gutenberg.org/ebooks/18176
